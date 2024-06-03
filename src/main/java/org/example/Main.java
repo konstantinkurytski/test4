@@ -36,7 +36,7 @@ public class Main {
 
            ArrayList<String> windows = new ArrayList<String> (driver1.getWindowHandles());
            driver1.switchTo().window(windows.get(0));
-           Thread.sleep(1000);
+           Thread.sleep(1090);
            String window1 = windows.get(0);
            System.out.println(window1);
            driver1.switchTo().window(windows.get(1));
