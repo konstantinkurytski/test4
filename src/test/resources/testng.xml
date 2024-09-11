@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/dange/IdeaProjects/test4">
         <classes>
-            <class name="test">
+            <class name="testinio">
 
             </class>
         </classes>
